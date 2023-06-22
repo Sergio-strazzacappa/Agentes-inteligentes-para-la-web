@@ -1,0 +1,9 @@
+<http://data.example.com/employee/7369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/ns#Employee> .
+<http://data.example.com/department/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/ns#Department> .
+<http://data.example.com/employee/7369> <http://example.com/ns#dptoName> <http://data.example.com/department/10> .
+<http://data.example.com/employee/7369> <http://example.com/ns#name> "Smith" .
+<http://data.example.com/department/10> <http://example.com/ns#location> "New York" .
+<http://data.example.com/employee/777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.com/ns#Employee> .
+<http://data.example.com/employee/777> <http://example.com/ns#dptoName> <http://data.example.com/department/9> .
+<http://data.example.com/employee/777> <http://example.com/ns#name> "Latorre" .
+<http://data.example.com/department/10> <http://example.com/ns#name> "APPSERVER" .
