@@ -1,6 +1,6 @@
-#R2RML
+# R2RML
 
-##Ejecución
+## Ejecución
 
 ```
 $ python -m morph_kgc .\config.ini
