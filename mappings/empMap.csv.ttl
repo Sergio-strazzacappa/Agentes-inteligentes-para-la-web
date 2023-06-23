@@ -12,6 +12,7 @@
         rr:objectMap [ rr:column "ENAME" ];
     ];
     rr:predicateObjectMap [
-        rr:predicate ex:dptoName;
-        rr:objectMap [ rr:template "http://data.example.com/department/{DEPTNO}" ];
+        rr:predicate ex:job;
+        rr:objectMap [ rr:column "JOB" 
+        ];
     ].

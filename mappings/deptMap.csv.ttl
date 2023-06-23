@@ -14,5 +14,4 @@
     rr:predicateObjectMap [
         rr:predicate ex:location;
         rr:objectMap [ rr:column "LOC" ];
-    ];
-   .
+    ].
